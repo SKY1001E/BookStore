@@ -1,0 +1,12 @@
+E:\[1] C# Works\MyAPI\AuthAPI.Common\bin\Debug\net5.0\AuthAPI.Common.deps.json
+E:\[1] C# Works\MyAPI\AuthAPI.Common\bin\Debug\net5.0\AuthAPI.Common.dll
+E:\[1] C# Works\MyAPI\AuthAPI.Common\bin\Debug\net5.0\ref\AuthAPI.Common.dll
+E:\[1] C# Works\MyAPI\AuthAPI.Common\bin\Debug\net5.0\AuthAPI.Common.pdb
+E:\[1] C# Works\MyAPI\AuthAPI.Common\obj\Debug\net5.0\AuthAPI.Common.csproj.AssemblyReference.cache
+E:\[1] C# Works\MyAPI\AuthAPI.Common\obj\Debug\net5.0\AuthAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\[1] C# Works\MyAPI\AuthAPI.Common\obj\Debug\net5.0\AuthAPI.Common.AssemblyInfoInputs.cache
+E:\[1] C# Works\MyAPI\AuthAPI.Common\obj\Debug\net5.0\AuthAPI.Common.AssemblyInfo.cs
+E:\[1] C# Works\MyAPI\AuthAPI.Common\obj\Debug\net5.0\AuthAPI.Common.csproj.CoreCompileInputs.cache
+E:\[1] C# Works\MyAPI\AuthAPI.Common\obj\Debug\net5.0\AuthAPI.Common.dll
+E:\[1] C# Works\MyAPI\AuthAPI.Common\obj\Debug\net5.0\ref\AuthAPI.Common.dll
+E:\[1] C# Works\MyAPI\AuthAPI.Common\obj\Debug\net5.0\AuthAPI.Common.pdb
